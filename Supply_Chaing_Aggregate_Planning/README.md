@@ -4,7 +4,7 @@ In this study, the below supply chain case will be solved using the aggregate pl
 
 ## Case Definition
 
-Can Caravan is a renowned caravan manufacturer, who offers a variety of 42 models to its
+Polaris is a renowned automobile manufacturer, who offers different models to its
 customers. These 42 models are grouped under two main categories with respect to their
 manufacturing requirements, i.e. basic and pro series. For the June 2022-May 2023 period,
 the company wishes to develop an aggregate production plan.
